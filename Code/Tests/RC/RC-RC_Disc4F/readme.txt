@@ -1,0 +1,1 @@
+Modelling the data exchange between to NRF01 modules based on single DiscoveryF4 board.
