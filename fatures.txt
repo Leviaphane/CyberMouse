@@ -1,0 +1,5 @@
+CyberMouse Features:
+1. Mouse placed into the own chargehole.
+2. Mouse can determine itself by the scan of any IR beacons (strategy).
+3. Mouse can determine nearest environment using the USonic rangefinder.
+4. Mouse use the radio to exchange the data with the base (chargehole or computer).
